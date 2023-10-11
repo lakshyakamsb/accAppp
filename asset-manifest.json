@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/accAppp/static/css/main.6d963711.css",
+    "main.js": "/accAppp/static/js/main.01d0c57c.js",
+    "index.html": "/accAppp/index.html",
+    "main.6d963711.css.map": "/accAppp/static/css/main.6d963711.css.map",
+    "main.01d0c57c.js.map": "/accAppp/static/js/main.01d0c57c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d963711.css",
+    "static/js/main.01d0c57c.js"
+  ]
+}
